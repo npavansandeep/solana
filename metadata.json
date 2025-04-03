@@ -2,7 +2,7 @@
     "name": "DANBO",
     "symbol": "danbo",
     "description": "everyone has a danbo inside them",
-    "image": "solana-token/danbo.jpg",
+    "image": "https://raw.githubusercontent.com/npavansandeep/solana/refs/heads/main/danbo.jpg",
     "attributes": [
       {
         "trait_type": "Item",
